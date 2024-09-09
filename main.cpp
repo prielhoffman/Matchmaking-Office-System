@@ -1,5 +1,5 @@
-/* Assignment: 2
-Author: Roey Salah
+/* main
+Author: Priel Hoffman
  */
 
 #include "Menu.h"
