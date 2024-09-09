@@ -71,3 +71,12 @@ The `main` function initializes a `Menu` object and displays the main menu, allo
 1. **Compile the Program**:
    ```bash
    g++ -o matchmaking_system main.cpp
+2. **Run the Program**:
+   ```bash
+   ./matchmaking_system
+3. **Menu Options**:
+1) Add a New Client: Enter client details to add a new client to the database.
+2) Remove an Existing Client: Enter the client ID to remove an existing client from the database.
+3) Print All Clients: Print details of all clients in the database.
+4) Print All Matches for a Client: Enter a client ID to print all possible matches.
+5) Quit the Program: Exit the program.
